@@ -1,14 +1,25 @@
 # Tlauncher
-Essentially, this Python script _automates_ the process of downloading and installing Tlauncher on various Linux distributions. With just a few commands, users can _effortlessly_ set up Tlauncher without the need for manual intervention. This streamlined approach _enhances_ convenience and efficiency, making it _accessible_ to a wider audience of Linux users.
 
+This Python script automates the process of downloading and installing Tlauncher on various Linux distributions. With just a few commands, users can effortlessly set up Tlauncher without the need for manual intervention. This streamlined approach enhances convenience and efficiency, making it accessible to a wider audience of Linux users.
 
-Download Python: Run the following command in the Linux Terminal to install Python:
+## Installation Instructions
 
-<code>sudo apt install python3
-</code>
+### Step 1: Download Python
 
-Run setup.py: After installing Python, you need to run the 'setup.py' file. Use the following command:
+Run the following command in the Linux Terminal to install Python:
 
-<code>python3 setup.py
-</code>
+```bash
+sudo apt install python3
+```
 
+### Step 2: Run setup.py
+
+After installing Python, you need to run the 'setup.py' file. Use the following command:
+
+```bash
+python3 setup.py
+```
+
+### Step 3: Play Minecraft
+
+After completing the setup, you can execute the 'main.sh' file in the terminal or simply double-click on it to play Minecraft.
