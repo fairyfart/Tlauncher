@@ -3,8 +3,7 @@
 
 Download Python: Run the following command in the Linux Terminal to install Python:
 
-<code>
-sudo apt install python3
+<code>sudo apt install python3
 </code>
 
 
