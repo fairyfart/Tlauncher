@@ -71,7 +71,7 @@ if get_request.lower() == "y":
         rename()
         if os.path.exists(path="TLauncher-2.86.jar"):
             space()
-            print(f"   Minecraft Successfully Downloaded.")
+            print(f"  Minecraft Successfully Downloaded.\n can be runned by executting command. './main.sh'")
             space()
         else:
             clear_output()
