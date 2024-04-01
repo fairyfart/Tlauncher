@@ -23,3 +23,7 @@ python3 setup.py
 ### Step 3: Play Minecraft
 
 After completing the setup, you can execute the 'main.sh' file in the terminal or simply double-click on it to play Minecraft.
+
+```bash
+./main.sh
+```
