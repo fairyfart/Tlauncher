@@ -1,10 +1,14 @@
 # Tlauncher
 
-to set everythings up.
-ve Need To download Python to do it we need to run this command on Linux Terminal.
-<code>sudo apt install python3
+
+Download Python: Run the following command in the Linux Terminal to install Python:
+
+<code>
+sudo apt install python3
 </code>
-After That We Need to run The 'setup.py'
-to do that We are Gonna use The Command 
-<code>python3 setup.py
-</code>
+
+
+Run setup.py: After installing Python, you need to run the 'setup.py' file. Use the following command:
+
+
+python3 setup.py
